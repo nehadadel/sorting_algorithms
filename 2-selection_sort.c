@@ -4,7 +4,7 @@
  *in ascending order using the Selection sort algorithm
  *
  *@array: array
- *@sizee: size of array
+ *@size: size of array
 */
 void selection_sort(int *array, size_t size)
 {
